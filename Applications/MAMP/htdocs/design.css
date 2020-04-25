@@ -1,7 +1,11 @@
 
-.navbar .navbar-nav ul li a {
-    color: chartreuse;
-}
+.nav-color-change ul li a{
+    color: rgb(68, 68, 68);
+    }
+    
+    .nav-color-change ul li a:hover{
+    color: rgb(187, 204, 33);
+    }
 
 h1 {
     color: coral;
