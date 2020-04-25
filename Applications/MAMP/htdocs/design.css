@@ -4,8 +4,7 @@ h1 {
 
 .navbar .navbar-nav {
     display: inline-block;
-    float: none;
-    vertical-align: top;
+    float: right;
   }
   
   .navbar .navbar-collapse {
